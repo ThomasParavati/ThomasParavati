@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Paravati
 - 👀 I’m interested in working as a web front-end developer
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS,node,sql,wedpack,phyton
 - 💞️ I’m looking to collaborate on freelance projects and companies
 - 📫 How to reach me: juegospc254@gmail.com
 - 🗣️ native language:Spanish. Second language: English
